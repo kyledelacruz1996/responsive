@@ -9,6 +9,7 @@ html{
 body{
     margin:0;
     padding: 0;
+    padding-top: 47px;
 }
 
 .navbar {
@@ -99,28 +100,28 @@ body{
 }
 
 #section2{
-    padding-top: 47px;
+    
     height: 100vh;
     background: blue;
     display: inline-block;
     width: 100%;
 }
 #section3{
-    padding-top: 47px;
+   
     height: 100vh;
     background: white;
     display: inline-block;
     width: 100%;
 }
 #section4{
-    padding-top: 47px;
+    
     height: 100vh;
     background: green;
     display: inline-block;
     width: 100%;
 }
 #section5{
-    padding-top: 47px;
+    
     height: 100vh;
     background: yellow;
     display: inline-block;
